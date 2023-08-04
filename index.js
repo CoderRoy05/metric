@@ -465,14 +465,7 @@
       (e.mergeIn = w),
       (e.omit = A),
       (e.addDefaults = S);
-    /*!
-     * Timm
-     *
-     * Immutability helpers with fast reads and acceptable writes.
-     *
-     * @copyright Guillermo Grau Panea 2016
-     * @license MIT
-     */
+      
     var i = "INVALID_ARGS";
     function o(t) {
       throw new Error(t);
