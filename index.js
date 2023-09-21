@@ -11396,3 +11396,7 @@ Webflow.require("ix2").init({
     ],
   },
 });
+
+$(document).ready(function() {
+$(".w-webflow-badge").removeClass("w-webflow").empty();
+});
