@@ -17,13 +17,13 @@ function Navbar() {
     <header>
       <h3 className="top">Metric UPX</h3>
       <nav ref={navRef}>
-        <a href="/#features" className="side_bar" onClick={closeNavbar}>
+        <a href="#features" className="side_bar" onClick={closeNavbar}>
           Features
         </a>
-        <a href="/#pricing" className="side_bar" onClick={closeNavbar}>
+        <a href="#pricing" className="side_bar" onClick={closeNavbar}>
           Pricing
         </a>
-        <a href="/#customers" className="side_bar" onClick={closeNavbar}>
+        <a href="#customers" className="side_bar" onClick={closeNavbar}>
           Customers
         </a>
         <a href="#foot" className="side_bar" onClick={closeNavbar}>
