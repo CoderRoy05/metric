@@ -1,6 +1,6 @@
 # Metric UPX
 
-![Metric UPX Preview](./assets/metric_upx)
+![Metric UPX Preview](./src/assets/metric_upx)
 
 **Live Preview:** [Click here to view the live website](https://coderroy05.github.io/metric)
 
