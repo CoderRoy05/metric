@@ -21,7 +21,7 @@ function Footer() {
       });
 
       // Email sent successfully
-      setMessage('Message sent! Thank you for subscribing.');
+      setMessage('Email sent! Thank you for subscribing.');
       setEmail(''); // Clear the input field
     } catch (error) {
       // Handle errors if needed
