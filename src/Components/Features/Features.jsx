@@ -17,8 +17,7 @@ function Features() {
         <div id="features" className="section">
       <div className="w-container">
             <h2>Sync Across All Devices</h2>
-            <div className="section-subtitle">Everything you need to make your business grow <strong className="bold-text">super
-                    fast</strong>!</div>
+            <div className="section-subtitle">Everything you need to make your business grow <strong className="bold-text">super fast</strong>!</div>
             <div className="feature-row w-row">
                 <div className="w-col w-col-6" data-aos="zoom-in">
                     <img
@@ -40,9 +39,11 @@ function Features() {
             </div>
             <div className="feature-row w-row">
                 <div className="w-col w-col-6">
-                    <div className="main-feature-group"><img
+                    <div className="main-feature-group">
+                        <img
                             src="https://assets.website-files.com/5e4b18d10b25ed7c5a4d7453/5e4b18d10b25edd11a4d747b_iconmonstr-download-13-icon.svg"
-                            height="30" alt="" className="feature-icon" />
+                            height="30" alt="" className="feature-icon"
+                        />
                         <h3>Mobile App</h3>
                         <p>
                             Embrace the future of mobility with our cutting-edge mobile app, empowering you to stay connected, 
@@ -70,9 +71,11 @@ function Features() {
                     </div>
                 </div>
                 <div className="w-col w-col-3">
-                    <div className="feature"><img
+                    <div className="feature">
+                        <img
                             src="https://assets.website-files.com/5e4b18d10b25ed7c5a4d7453/5e4b18d10b25ed67164d747f_iconmonstr-sitemap-7-icon.svg"
-                            height="30" alt="" className="feature-icon" />
+                            height="30" alt="" className="feature-icon" 
+                        />
                         <h3>Custom Rules</h3>
                         <p>
                             Take full control of your business processes with our custom rules feature, allowing you to define personalized guidelines and automate actions, 
@@ -81,9 +84,11 @@ function Features() {
                     </div>
                 </div>
                 <div className="w-col w-col-3">
-                    <div className="feature"><img
+                    <div className="feature">
+                        <img
                             src="https://assets.website-files.com/5e4b18d10b25ed7c5a4d7453/5e4b18d10b25ed497e4d7467_iconmonstr-save-9-icon.svg"
-                            height="30" alt="" className="feature-icon" />
+                            height="30" alt="" className="feature-icon" 
+                        />
                         <h3>Presets</h3>
                         <p>
                             Effortlessly optimize your workflow with our presets, pre-configured settings tailored to your specific needs, 
